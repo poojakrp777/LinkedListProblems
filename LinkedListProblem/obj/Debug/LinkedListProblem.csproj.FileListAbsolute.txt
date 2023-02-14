@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\LinkedListProblem\LinkedListProblem\bin\Debug\LinkedListProblem.exe.config
+C:\Users\Dell\source\repos\LinkedListProblem\LinkedListProblem\bin\Debug\LinkedListProblem.exe
+C:\Users\Dell\source\repos\LinkedListProblem\LinkedListProblem\bin\Debug\LinkedListProblem.pdb
+C:\Users\Dell\source\repos\LinkedListProblem\LinkedListProblem\obj\Debug\LinkedListProblem.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LinkedListProblem\LinkedListProblem\obj\Debug\LinkedListProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\LinkedListProblem\LinkedListProblem\obj\Debug\LinkedListProblem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LinkedListProblem\LinkedListProblem\obj\Debug\LinkedListProblem.exe
+C:\Users\Dell\source\repos\LinkedListProblem\LinkedListProblem\obj\Debug\LinkedListProblem.pdb
