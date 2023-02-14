@@ -29,6 +29,15 @@ namespace LinkedListProblem
                 head = newNode;
             }
         }
+        public void Add(int value)
+        {
+            Node newNode = new Node();
+            newNode.data = value;
+            newNode.next = null;
+            Node temp = head;
+            head = newNode;
+            newNode.next = temp;
+        }
         public void display()
         {
             if (head == null)
