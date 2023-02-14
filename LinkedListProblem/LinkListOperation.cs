@@ -10,7 +10,7 @@ namespace LinkedListProblem
     {
         public Node head;
 
-        public void insert(int value)
+        public void append(int value)
         {
             Node newNode = new Node();
             newNode.data = value;
@@ -18,6 +18,7 @@ namespace LinkedListProblem
             if (head != null)
             {
                 Node temp = head;
+
                 while (temp.next != null)
                 {
                     temp = temp.next;
