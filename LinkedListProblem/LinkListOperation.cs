@@ -93,5 +93,13 @@ namespace LinkedListProblem
             }
             Console.WriteLine();
         }
+        public Node removeFirstNode()
+        {
+            if (this.head == null)
+                return null;
+            Node temp = head;
+            head = head.next;
+            return temp;
+        }
     }
 }
