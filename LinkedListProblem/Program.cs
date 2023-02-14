@@ -31,6 +31,10 @@ namespace LinkedListProblem
             linkistOperation.Display();
             Console.WriteLine("First element is poped out from linked list = " + linkistOperation.removeFirstNode().data);
             linkistOperation.Display();
+            linkistOperation.InsertAtParticularPoistion(1, 56);
+            linkistOperation.Display();
+            Console.WriteLine("Last element is poped out from linked list = " + linkistOperation.removeLastNode().data);
+            linkistOperation.Display();
             Console.ReadLine();
         }
     }
