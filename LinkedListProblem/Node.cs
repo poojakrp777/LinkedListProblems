@@ -6,9 +6,15 @@ using System.Threading.Tasks;
 
 namespace LinkedListProblem
 {
-    internal class Node
+    public class Node
     {
         public int data;
         public Node next;
+
+        // Parameterized constructor to Initializes a new instance of the class
+        public Node(int data)
+        {
+            this.data = data;
+        }
     }
 }
