@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LinkedListProblem
 {
     public class LinkListOperation
-    {
+    { 
         internal Node head;
 
         // Add method to add the specific data into linked list

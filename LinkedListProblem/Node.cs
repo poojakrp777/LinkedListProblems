@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LinkedListProblem
 {
     public class Node
-    {
+    { 
         public int data;
         public Node next;
 
